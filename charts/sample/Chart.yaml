@@ -1,0 +1,5 @@
+apiVersion: v2
+name: testing-sample
+description: for-custom-resource-deployment tests this sample adds a simple custom resource to be applied with argocd
+version: 0.0.1-SNAPSHOT
+icon: http://acme.org/replaceme.jpg
